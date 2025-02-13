@@ -1,0 +1,30 @@
+cd Desktop
+mkdir
+rmdir Aulaangular
+git clone https://github.com/marigatos/Projeto_Angular.git
+dir
+cd Projeto_Angular
+npm install -g @angular/cli
+code .
+ng new Aula1
+npm install -g npm@11.1.0
+npm fund
+npm install
+ng new aula1
+get upgrade --all
+winget upgrade --all
+hihu
+git comit -m "adicionando comandos ao meu arquivo"
+git commit -m "adicionmando comandos ao meu arquivo"
+git add oii
+mkdir Aulaangular
+git add Aulaangular
+git commit -m "ola"
+mkdir oii.txt
+git add oii.txt
+git add .
+git commit -m "oi"
+git push
+git push .
+ng new my-po-project --skip install
+doskey /h >Comando.txt
